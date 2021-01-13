@@ -1,6 +1,6 @@
 ## Languages
-| Language | Level |
-| ----------- | ----------- |
-| English | Pre-Intermediate |
-| Russian | Native |
-| Armenian | Fluent 
+Language | Level |
+-------- | ----- |
+English | Pre-Intermediate
+Russian | Native
+Armenian | Fluent
